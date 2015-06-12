@@ -1,0 +1,19 @@
+{
+  "name": "console",
+  "version": "0.0.0",
+  "description": "",
+  "main": "console.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alejandrocastrounqui/console.git"
+  },
+  "author": "Alejandro Castro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alejandrocastrounqui/console/issues"
+  },
+  "homepage": "https://github.com/alejandrocastrounqui/console"
+}
